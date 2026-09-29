@@ -1,0 +1,7 @@
+Course Management
+
+- Add course
+- View course
+- Update course
+- Delete course
+- Search course
