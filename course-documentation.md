@@ -1,6 +1,9 @@
 # Course Management
 
-The course management feature allows students to view
-available courses.
+## Features
 
-Students can choose a course from the available course list.
+- Add course
+- View course
+- Update course
+- Delete course
+- Search course
