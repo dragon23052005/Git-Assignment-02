@@ -4,3 +4,4 @@ Quiz Management
 - View quiz
 - Update quiz
 - Delete quiz
+- Add quiz deadline
