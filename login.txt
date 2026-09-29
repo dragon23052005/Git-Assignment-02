@@ -3,3 +3,4 @@ Login Feature
 - User can enter username
 - User can enter password
 - User can login to the system
+- Validate username and password
